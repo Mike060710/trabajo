@@ -1,4 +1,6 @@
 # The Elder Scrolls V: Skyrim
+![Skyrim](![Skyrim](https://www.iessanmamede.com/wp-content/uploads/2023/08/logo_sm_grande.png)
+)
 
 ## Introducción
 
