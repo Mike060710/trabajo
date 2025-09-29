@@ -1,6 +1,6 @@
 # The Elder Scrolls V: Skyrim
-![Skyrim](![Skyrim](https://www.iessanmamede.com/wp-content/uploads/2023/08/logo_sm_grande.png)
-)
+![Skyrim](https://static.wikia.nocookie.net/elderscrolls/images/c/c5/Skyrim_Cover.png/revision/latest?cb=20160812173034)
+
 
 ## Introducción
 
